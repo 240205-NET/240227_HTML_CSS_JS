@@ -1,0 +1,39 @@
+#subheading li {
+	list-style: none;	
+}
+
+body{
+	display: block;
+	margin:  auto;
+	background-color: darkgray;
+	max-width: 1200px;
+	font-family: Georgia, serif;
+	
+}
+
+#title{
+	font-size: 32px;
+	
+	
+}
+
+#about-content td{
+	width: 50%;
+	
+}
+
+
+#subheading{
+	padding: 20px;
+	background-color: white;
+}
+
+#about-content{
+	padding: 50px;
+	background-color: white;
+}
+
+#languages{
+	padding: 50px;
+	background-color: white;
+}
