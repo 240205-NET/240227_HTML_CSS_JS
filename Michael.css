@@ -1,0 +1,33 @@
+
+.skill{
+    display: flex;
+    flex-wrap: wrap;
+}
+.column{
+    margin: 5px;
+    padding-inline: 5px;
+    border-radius: 10px;
+    background-color: rgb(150 169 255);
+    height: flex;
+    max-width: 200px;
+    
+}
+.column p{
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    max-width: 1000px;
+}
+h1{
+    text-align: center;
+    max-width: 1000px;
+}
+p{
+    padding: 5px;
+    background-color: rgb(150 169 255);
+    border-radius: 10px;
+    max-width: 1000px;
+
+}
